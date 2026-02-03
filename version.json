@@ -1,7 +1,6 @@
 {
   "Version": "1.0.1",
-  "DownloadUrl": "https://myserver.com/launcher/MyGuiLauncher_v1.0.1.exe",
-  "Changelog": "• Исправлена авторизация\n• Добавлена настройка видеокарты\n• Оптимизирована загрузка\n• Исправлены мелкие баги",
-  "ReleaseDate": "2026-02-03"
-
+  "DownloadUrl": "https://github.com/Tigo4otkiy/Tigo4otkiy.github.io/raw/main/MyGuiLauncher.exe",
+  "ClientZipUrl": "https://www.dropbox.com/scl/fi/djtagrzg0fmau3b6fefkw/client.zip?rlkey=2qzb4l4lpyy31y9f0kt00vzjr&st=iddrkqnz&dl=1",
+  "Changelog": "• Добавлена система автообновлений\n• Ссылка на клиент теперь берется с GitHub\n• Исправлены ошибки авторизации\n• Оптимизирована загрузка файлов"
 }
