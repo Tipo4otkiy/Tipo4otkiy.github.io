@@ -1,0 +1,6 @@
+{
+  "Version": "1.0.1",
+  "DownloadUrl": "https://your-server.com/launcher/MyGuiLauncher_v1.0.1.exe",
+  "Changelog": "• Исправлена авторизация\n• Добавлена настройка видеокарты\n• Оптимизирована загрузка\n• Исправлены мелкие баги",
+  "ReleaseDate": "2024-01-20"
+}
