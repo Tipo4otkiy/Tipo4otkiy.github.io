@@ -1,5 +1,5 @@
 {
-  "LauncherVersion": "1.0.18",
+  "LauncherVersion": "1.0.19",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
   "Pack1": {
     "Name": "Lost Souls",
@@ -18,5 +18,6 @@
     "ServerPort": 25565
   }
 }
+
 
 
