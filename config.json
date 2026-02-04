@@ -8,7 +8,7 @@
     "Description": "Хардкорная сборка с магией и технологиями.",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
-    "VersionID": "ВСТАВЬ_СЮДА_ИМЯ_ПАПКИ_FORGE"
+    "VersionID": "1.20.1-forge-47.4.0"
   },
   "Pack2": {
     "Name": "Coming Soon",
@@ -20,3 +20,4 @@
     "VersionID": ""
   }
 }
+
