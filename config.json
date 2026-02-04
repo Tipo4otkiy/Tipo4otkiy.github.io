@@ -1,6 +1,7 @@
 {
-  "LauncherVersion": "1.0.48",
+  "LauncherVersion": "1.0.49",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
+  "MainBackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/bg.jpg",
   "Pack1": {
     "Name": "Lost Souls",
     "Version": "1.0",
@@ -9,7 +10,9 @@
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
     "VersionID": "1.20.1-forge-47.4.0",
-    "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png"
+    "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png",
+    "TitleColor": "#FFFFFF",
+    "DescriptionColor": "#CCCCCC"
   },
   "Pack2": {
     "Name": "Coming Soon",
@@ -19,6 +22,8 @@
     "ServerIp": "",
     "ServerPort": 25565,
     "VersionID": "",
-    "BackgroundUrl": ""
+    "BackgroundUrl": "",
+    "TitleColor": "#888888",
+    "DescriptionColor": "#555555"
   }
 }
