@@ -1,5 +1,5 @@
 {
-  "LauncherVersion": "1.0.9",
+  "LauncherVersion": "1.0.10",
   "LauncherExeLink": "https://www.dropbox.com/scl/fi/gq53gkeqddjr6c37ke823/MyGuiLauncher.exe?rlkey=getbtwn4bn5vnuyiylmkyiv4j&st=cr0ilsci&dl=1",
   "Pack1": {
     "Name": "Lost Souls",
@@ -10,4 +10,5 @@
   },
   "Pack2": { "Name": "", "FileLink": "", "Description": "" }
 }
+
 
