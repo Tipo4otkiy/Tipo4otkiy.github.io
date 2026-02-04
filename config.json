@@ -1,6 +1,6 @@
 {
-  "LauncherVersion": "1.0.14",
-  "LauncherExeLink": "https://www.dropbox.com/scl/fi/pkz5kckvapse9689ynwn4/MyGuiLauncher.exe?rlkey=jlz8pnxgx4aejy0lb7xhfpucj&st=flu0kkyz&dl=1",
+  "LauncherVersion": "1.0.15",
+  "LauncherExeLink": "https://www.dropbox.com/scl/fi/93gmiy5msktcktvjkv1er/MyGuiLauncher.exe?rlkey=m0kcjm4jfjqbtmc4wrjawtt0i&st=qt1dfr6p&dl=1",
   "Pack1": {
     "Name": "Lost Souls",
     "FileLink": "https://www.dropbox.com/scl/fi/ctejj4nojp3cqru998w6n/client.zip?rlkey=kyxcng7zpqiwu1kdgni2zphu9&st=9v1qgvfn&dl=1",
@@ -10,6 +10,7 @@
   },
   "Pack2": { "Name": "", "FileLink": "", "Description": "" }
 }
+
 
 
 
