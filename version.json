@@ -1,8 +1,1 @@
-{
-  "Version": "1.0.1",
-  "DownloadUrl": "https://www.dropbox.com/scl/fi/8mo9enz0knvdv4sih4miw/MyGuiLauncher.exe?rlkey=t6xh8cnpdhftzkg8pa3r3z17y&st=o3girixe&dl=1",
-  "ClientZipUrl": "https://www.dropbox.com/scl/fi/ctejj4nojp3cqru998w6n/client.zip?rlkey=kyxcng7zpqiwu1kdgni2zphu9&st=myqtxh9d&dl=1",
-  "ServerIp": "templatemc.polit.day",
-  "ServerPort": 25565,
-  "Changelog": "• Полная система автообновлений\n• Динамическая загрузка ссылок с GitHub\n• Исправлены все ошибки\n• Добавлена поддержка разных GPU\n• Оптимизирована загрузка клиента"
-}
+
