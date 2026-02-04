@@ -1,5 +1,5 @@
 {
-  "LauncherVersion": "1.0.1",
+  "LauncherVersion": "1.0.7",
   "LauncherExeLink": "https://drive.google.com/file/d/1CbK5YRZdiSJwhH5wCFnMdbIIXvru8oNe/view?usp=drive_link",
   "Pack1": {
     "Name": "Lost Souls",
@@ -9,4 +9,5 @@
     "ServerPort": 25565
   },
   "Pack2": { "Name": "", "FileLink": "", "Description": "" }
+
 }
