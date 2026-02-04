@@ -1,15 +1,16 @@
 {
   "LauncherVersion": "1.0.11",
-  "LauncherExeLink": "https://www.dropbox.com/scl/fi/ta3jp96k4deshd04ii39g/MyGuiLauncher.exe?rlkey=dcr97ngi47zpb359g7btuj49t&st=7f57qlfx&dl=1",
+  "LauncherExeLink": "https://www.dropbox.com/scl/fi/ta3jp96k4deshd04ii39g/MyGuiLauncher.exe?rlkey=dcr97ngi47zpb359g7btuj49t&st=1i09z9wz&dl=1",
   "Pack1": {
     "Name": "Lost Souls",
-    "FileLink": "https://www.dropbox.com/scl/fi/oj0d10q17xd23f1niz904/MyGuiLauncher.exe?rlkey=buejncb2pws7g41bas49g8vnf&st=2vujdial&dl=1",
+    "FileLink": "https://www.dropbox.com/scl/fi/ctejj4nojp3cqru998w6n/client.zip?rlkey=kyxcng7zpqiwu1kdgni2zphu9&st=9v1qgvfn&dl=1",
     "Description": "Хардкорная сборка...",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565
   },
   "Pack2": { "Name": "", "FileLink": "", "Description": "" }
 }
+
 
 
 
