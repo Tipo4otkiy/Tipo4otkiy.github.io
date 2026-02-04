@@ -1,20 +1,20 @@
 {
   "LauncherVersion": "1.0.16",
-  "LauncherExeLink": "https://www.dropbox.com/scl/fi/3tobhq9c9vjv0hv7xi2eh/MyGuiLauncher.exe?rlkey=d1k1dspzllz1e3m03n0rm29g7&st=71h9yvqk&dl=1",
+  "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
   "Pack1": {
     "Name": "Lost Souls",
-    "Version": "1.0", 
-    "FileLink": "https://www.dropbox.com/scl/fi/ctejj4nojp3cqru998w6n/client.zip?rlkey=kyxcng7zpqiwu1kdgni2zphu9&st=3u08vo55&dl=1",
-    "Description": "Хардкорная сборка...",
+    "Version": "1.0",
+    "FileLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/client.zip",
+    "Description": "Хардкорная сборка с магией и технологиями.",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565
   },
   "Pack2": {
-    "Name": "В разработке",
-    "Version": "0",
-    "FileLink": "-",
-    "Description": "В разработке",
-    "ServerIp": "magic.server.net",
+    "Name": "Coming Soon",
+    "Version": "0.0",
+    "FileLink": "",
+    "Description": "В разработке...",
+    "ServerIp": "",
     "ServerPort": 25565
   }
 }
