@@ -1,5 +1,5 @@
 {
-  "LauncherVersion": "1.0.26",
+  "LauncherVersion": "1.0.27",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
   "Pack1": {
     "Name": "Lost Souls",
@@ -7,7 +7,8 @@
     "FileLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/client.zip",
     "Description": "Хардкорная сборка с магией и технологиями.",
     "ServerIp": "templatemc.polit.day",
-    "ServerPort": 25565
+    "ServerPort": 25565,
+    "VersionID": "ВСТАВЬ_СЮДА_ИМЯ_ПАПКИ_FORGE"
   },
   "Pack2": {
     "Name": "Coming Soon",
@@ -15,16 +16,7 @@
     "FileLink": "",
     "Description": "В разработке...",
     "ServerIp": "",
-    "ServerPort": 25565
+    "ServerPort": 25565,
+    "VersionID": ""
   }
 }
-
-
-
-
-
-
-
-
-
-
