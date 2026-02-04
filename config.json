@@ -1,18 +1,12 @@
 {
-  "LauncherVersion": "1.0.6",
-  "LauncherExeId": "1CbK5YRZdiSJwhH5wCFnMdbIIXvru8oNe",
+  "LauncherVersion": "1.0.1",
+  "LauncherExeLink": "https://drive.google.com/file/d/1CbK5YRZdiSJwhH5wCFnMdbIIXvru8oNe/view?usp=drive_link",
   "Pack1": {
     "Name": "Lost Souls",
-    "FileId": "1G911h8PBLn_XztYPUAvxH_eFnNBYvmid",
-    "Description": "сборка",
+    "FileLink": "https://drive.google.com/file/d/1G911h8PBLn_XztYPUAvxH_eFnNBYvmid/view?usp=drive_link",
+    "Description": "Хардкорная сборка.",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565
   },
-  "Pack2": {
-    "Name": "",
-    "FileId": "",
-    "Description": "",
-    "ServerIp": "",
-    "ServerPort": 0
-  }
+  "Pack2": { "Name": "", "FileLink": "", "Description": "" }
 }
