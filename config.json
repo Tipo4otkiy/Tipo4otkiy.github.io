@@ -6,7 +6,8 @@
   
   "BackgroundMusicUrls": [
     "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-pheonix-intro.mp3",
-    "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-i-expect-you-to-die-theme.mp3"
+    "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-i-expect-you-to-die-theme.mp3",
+    "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/coginthemachine.mp3"
   ],
   
   "BackgroundMusicVolume": 3,
@@ -68,3 +69,4 @@
     "Description": "В разработке..." 
   }
 }
+
