@@ -1,5 +1,5 @@
 {
-  "LauncherVersion": "1.0.50",
+  "LauncherVersion": "1.0.51",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
   "MainBackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/bg.png",
   "Pack1": {
@@ -52,6 +52,7 @@
     "Description": "В разработке..." 
   }
 }
+
 
 
 
