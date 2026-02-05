@@ -43,7 +43,13 @@
   "Pack2": {
     "Name": "Coming Soon",
     "Version": "0.0",
+    "FileLink":"",
+    "ServerIp": "templatemc.polit.day",
+    "ServerPort": 25565,
+    "VersionID": "",
+    "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png",
     "TitleVisual": { "Text": "СКОРО...", "Color": "#888888" },
     "Description": "В разработке..." 
   }
 }
+
