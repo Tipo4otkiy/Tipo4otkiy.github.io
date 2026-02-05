@@ -1,10 +1,17 @@
 {
-  "LauncherVersion": "1.0.53",
+  "LauncherVersion": "1.0.54",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
+  
   "MainBackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/bg.png",
-  "BackgroundMusicUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-pheonix-intro.mp3",
-  "VisualizerColor": "#4CAF50",
+  
+  "BackgroundMusicUrls": [
+    "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-pheonix-intro.mp3",
+    "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-i-expect-you-to-die-theme.mp3"
+  ],
+  
   "BackgroundMusicVolume": 3,
+  "VisualizerColor": "#4CAF50",
+
   "Pack1": {
     "Name": "Lost Souls",
     "Version": "1.0",
@@ -43,22 +50,21 @@
       }
     ]
   },
+
   "Pack2": {
     "Name": "Coming Soon",
     "Version": "0.0",
-    "FileLink":"",
+    "FileLink": "",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
     "VersionID": "",
     "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png",
-    "TitleVisual": { "Text": "СКОРО...", "Color": "#888888" },
+    
+    "TitleVisual": { 
+      "Text": "СКОРО...", 
+      "Color": "#888888" 
+    },
+    
     "Description": "В разработке..." 
   }
 }
-
-
-
-
-
-
-
