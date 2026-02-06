@@ -12,7 +12,7 @@
   "BackgroundMusicVolume": 30,
   "VisualizerColor": "#4CAF50",
 
-"Pack1": {
+  "Pack1": {
     "Name": "Lost Souls",
     "Description": "Хардкорная сборка...",
     "ServerIp": "templatemc.polit.day",
@@ -79,13 +79,3 @@
     "Description": "В разработке..." 
   }
 }
-
-
-
-
-
-
-
-
-
-
