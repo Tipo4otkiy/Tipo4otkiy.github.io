@@ -63,8 +63,8 @@
   },
 
   "Pack2": {
-    "Name": "Lost Souls",
-    "Description": "Хардкорная сборка...",
+    "Name": "Lost Souls 2",
+    "Description": "Хардкорная сборка #2",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
     "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png",
