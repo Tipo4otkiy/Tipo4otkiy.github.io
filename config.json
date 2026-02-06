@@ -1,5 +1,5 @@
 {
-  "LauncherVersion": "1.0.64",
+  "LauncherVersion": "1.0.65",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
   "MainBackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/bgtest.png",
   
@@ -31,46 +31,22 @@
         "VersionID": "1.20.1-forge-47.4.0"
       }
     ],
-
     "TitleVisual": {
       "Text": "LOST SOULS",
       "Color": "#FF5555",
       "Size": 22,
       "Bold": true,
       "Font": "Arial"
-    },
-    
-    "DescriptionLines": [
-      {
-        "Text": "Хардкорная сборка",
-        "Color": "#FFFFFF",
-        "Size": 14,
-        "Bold": true
-      },
-      {
-        "Text": "С магией и технологиями.",
-        "Color": "#CCCCCC",
-        "Size": 12,
-        "Italic": true
-      },
-      {
-        "Text": "Приятной игры",
-        "Color": "#FF0000",
-        "Size": 12,
-        "Bold": true
-      }
-    ]
+    }
   },
 
   "Pack2": {
     "Name": "Скоро...",
-    "Description": "В разработке",
+    "Description": "Этот слот пока закрыт.",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
-    "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/right.png",
+    "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png",
     
-  "Versions": [] 
-    }
-
-
-
+    "Versions": []
+  }
+}
