@@ -13,7 +13,7 @@
   "VisualizerColor": "#4CAF50",
 
   "Pack1": {
-    "Name": "Соси ВАНЯ",
+    "Name": "Lost Souls",
     "Description": "Хардкорная сборка...",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
@@ -79,6 +79,7 @@
     "Description": "В разработке..." 
   }
 }
+
 
 
 
