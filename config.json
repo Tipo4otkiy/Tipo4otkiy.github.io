@@ -1,25 +1,32 @@
 {
-  "LauncherVersion": "1.0.67",
+  "LauncherVersion": "1.0.66",
   "LauncherExeLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/MyGuiLauncher.exe",
   "MainBackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/bgtest.png",
+  
   "BackgroundMusicUrls": [
     "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-pheonix-intro.mp3",
     "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/1-i-expect-you-to-die-theme.mp3",
     "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/coginthemachine.mp3"
   ],
+  
   "BackgroundMusicVolume": 30,
   "VisualizerColor": "#4CAF50",
+
   "Pack1": {
     "Name": "Lost Souls",
-    "Version": "v1.0 (Release)",
-    "VersionID": "1.20.1-forge-47.4.0",
     "Description": "Хардкорная сборка...",
     "ServerIp": "templatemc.polit.day",
     "ServerPort": 25565,
     "BackgroundUrl": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/left.png",
+    
     "Versions": [
       {
         "Name": "v1.0 (Release)",
+        "FileLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/client.zip",
+        "VersionID": "1.20.1-forge-47.4.0"
+      },
+      {
+        "Name": "v1.1 (Beta Test)",
         "FileLink": "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/client.zip",
         "VersionID": "1.20.1-forge-47.4.0"
       }
@@ -32,6 +39,7 @@
       "Font": "Arial"
     }
   },
+
   "Pack2": {
     "Name": "Скоро...",
     "Description": "Этот слот пока закрыт.",
@@ -41,3 +49,5 @@
     "Versions": []
   }
 }
+
+
