@@ -8,7 +8,7 @@
     "https://github.com/Tipo4otkiy/Tipo4otkiy.github.io/releases/download/v1.0/coginthemachine.mp3"
   ],
   "BackgroundMusicVolume": 30,
-  "VisualizerColor": "#0babdb",
+  "VisualizerColor": "#4CAF50",
   "Pack1": {
     "Name": "Aeronautics",
     "Description": "В представлении не нуждается....",
@@ -23,8 +23,8 @@
       }
     ],
     "TitleVisual": {
-      "Text": "LOST SOULS",
-      "Color": "#FF5555",
+      "Text": "Aeronautics",
+      "Color": "#4CAF50",
       "Size": 22,
       "Bold": true,
       "Font": "Arial"
